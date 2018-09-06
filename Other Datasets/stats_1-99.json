@@ -1,0 +1,2580 @@
+{
+ "player": [
+  {
+   "stats": [
+    {
+     "fname": "Rafael",
+     "sname": "Nadal",
+     "aces": "3,156",
+     "double_faults": "1,679",
+     "first_serve": "69%",
+     "first_serve_won": "72%",
+     "sec_serve_won": "57%",
+     "break_faced": "5,493",
+     "break_saved": "67%",
+     "serve_playerd": "12,700",
+     "serve_won": "86%",
+     "serve_points_won": "67%",
+     "first_return_won": "34%",
+     "sec_return_won": "55%",
+     "break_opportunity": "9,410",
+     "break_converted": "45%",
+     "return_games": "12,621",
+     "return_won": "34%",
+     "return_points_won": "42%",
+     "total_points_won": "54%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Roger",
+     "sname": "Federer",
+     "aces": "10,645",
+     "double_faults": "2,578",
+     "first_serve": "62%",
+     "first_serve_won": "77%",
+     "sec_serve_won": "57%",
+     "break_faced": "5,969",
+     "break_saved": "67%",
+     "serve_playerd": "17,476",
+     "serve_won": "89%",
+     "serve_points_won": "70%",
+     "first_return_won": "33%",
+     "sec_return_won": "51%",
+     "break_opportunity": "11,121",
+     "break_converted": "41%",
+     "return_games": "17,085",
+     "return_won": "27%",
+     "return_points_won": "40%",
+     "total_points_won": "54%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Juan Martin",
+     "sname": "del Potro",
+     "aces": "4,159",
+     "double_faults": "1,317",
+     "first_serve": "64%",
+     "first_serve_won": "74%",
+     "sec_serve_won": "53%",
+     "break_faced": "2,906",
+     "break_saved": "64%",
+     "serve_playerd": "6,850",
+     "serve_won": "85%",
+     "serve_points_won": "67%",
+     "first_return_won": "30%",
+     "sec_return_won": "52%",
+     "break_opportunity": "4,197",
+     "break_converted": "42%",
+     "return_games": "6,860",
+     "return_won": "26%",
+     "return_points_won": "39%",
+     "total_points_won": "52%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Alexander",
+     "sname": "Zverev",
+     "aces": "1,653",
+     "double_faults": "878",
+     "first_serve": "63%",
+     "first_serve_won": "73%",
+     "sec_serve_won": "51%",
+     "break_faced": "1,418",
+     "break_saved": "61%",
+     "serve_playerd": "3,000",
+     "serve_won": "82%",
+     "serve_points_won": "65%",
+     "first_return_won": "30%",
+     "sec_return_won": "50%",
+     "break_opportunity": "1,693",
+     "break_converted": "43%",
+     "return_games": "2,999",
+     "return_won": "24%",
+     "return_points_won": "38%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Kevin",
+     "sname": "Anderson",
+     "aces": "6,364",
+     "double_faults": "1,539",
+     "first_serve": "65%",
+     "first_serve_won": "77%",
+     "sec_serve_won": "53%",
+     "break_faced": "2,640",
+     "break_saved": "66%",
+     "serve_playerd": "6,731",
+     "serve_won": "87%",
+     "serve_points_won": "68%",
+     "first_return_won": "26%",
+     "sec_return_won": "47%",
+     "break_opportunity": "3,056",
+     "break_converted": "36%",
+     "return_games": "6,653",
+     "return_won": "17%",
+     "return_points_won": "34%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Novak",
+     "sname": "Djokovic",
+     "aces": "5,124",
+     "double_faults": "2,139",
+     "first_serve": "65%",
+     "first_serve_won": "73%",
+     "sec_serve_won": "55%",
+     "break_faced": "4,987",
+     "break_saved": "65%",
+     "serve_playerd": "11,861",
+     "serve_won": "85%",
+     "serve_points_won": "67%",
+     "first_return_won": "34%",
+     "sec_return_won": "55%",
+     "break_opportunity": "8,358",
+     "break_converted": "44%",
+     "return_games": "11,539",
+     "return_won": "32%",
+     "return_points_won": "42%",
+     "total_points_won": "54%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Marin",
+     "sname": "Cilic",
+     "aces": "6,041",
+     "double_faults": "1,877",
+     "first_serve": "56%",
+     "first_serve_won": "77%",
+     "sec_serve_won": "53%",
+     "break_faced": "3,810",
+     "break_saved": "64%",
+     "serve_playerd": "8,569",
+     "serve_won": "84%",
+     "serve_points_won": "66%",
+     "first_return_won": "30%",
+     "sec_return_won": "50%",
+     "break_opportunity": "5,031",
+     "break_converted": "39%",
+     "return_games": "8,466",
+     "return_won": "23%",
+     "return_points_won": "38%",
+     "total_points_won": "52%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Grigor",
+     "sname": "Dimitrov",
+     "aces": "3,202",
+     "double_faults": "1,505",
+     "first_serve": "62%",
+     "first_serve_won": "75%",
+     "sec_serve_won": "52%",
+     "break_faced": "2,585",
+     "break_saved": "63%",
+     "serve_playerd": "5,669",
+     "serve_won": "83%",
+     "serve_points_won": "66%",
+     "first_return_won": "29%",
+     "sec_return_won": "49%",
+     "break_opportunity": "3,142",
+     "break_converted": "38%",
+     "return_games": "5,571",
+     "return_won": "21%",
+     "return_points_won": "37%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Dominic",
+     "sname": "Thiem",
+     "aces": "1,888",
+     "double_faults": "944",
+     "first_serve": "59%",
+     "first_serve_won": "74%",
+     "sec_serve_won": "53%",
+     "break_faced": "1,876",
+     "break_saved": "63%",
+     "serve_playerd": "3,990",
+     "serve_won": "83%",
+     "serve_points_won": "65%",
+     "first_return_won": "30%",
+     "sec_return_won": "50%",
+     "break_opportunity": "2,441",
+     "break_converted": "38%",
+     "return_games": "4,012",
+     "return_won": "23%",
+     "return_points_won": "38%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "David",
+     "sname": "Goffin",
+     "aces": "1,797",
+     "double_faults": "1,209",
+     "first_serve": "58%",
+     "first_serve_won": "71%",
+     "sec_serve_won": "51%",
+     "break_faced": "2,366",
+     "break_saved": "61%",
+     "serve_playerd": "4,139",
+     "serve_won": "78%",
+     "serve_points_won": "63%",
+     "first_return_won": "31%",
+     "sec_return_won": "53%",
+     "break_opportunity": "2,773",
+     "break_converted": "41%",
+     "return_games": "4,186",
+     "return_won": "27%",
+     "return_points_won": "40%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "John",
+     "sname": "Isner",
+     "aces": "10,617",
+     "double_faults": "1,361",
+     "first_serve": "69%",
+     "first_serve_won": "78%",
+     "sec_serve_won": "56%",
+     "break_faced": "2,407",
+     "break_saved": "71%",
+     "serve_playerd": "8,463",
+     "serve_won": "92%",
+     "serve_points_won": "71%",
+     "first_return_won": "23%",
+     "sec_return_won": "42%",
+     "break_opportunity": "2,880",
+     "break_converted": "31%",
+     "return_games": "8,356",
+     "return_won": "11%",
+     "return_points_won": "30%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Pablo",
+     "sname": "Carreno Busta",
+     "aces": "1,038",
+     "double_faults": "495",
+     "first_serve": "63%",
+     "first_serve_won": "68%",
+     "sec_serve_won": "51%",
+     "break_faced": "1,833",
+     "break_saved": "59%",
+     "serve_playerd": "3,199",
+     "serve_won": "76%",
+     "serve_points_won": "62%",
+     "first_return_won": "29%",
+     "sec_return_won": "52%",
+     "break_opportunity": "1,882",
+     "break_converted": "43%",
+     "return_games": "3,198",
+     "return_won": "25%",
+     "return_points_won": "38%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Diego",
+     "sname": "Schwartzman",
+     "aces": "468",
+     "double_faults": "512",
+     "first_serve": "61%",
+     "first_serve_won": "65%",
+     "sec_serve_won": "50%",
+     "break_faced": "1,450",
+     "break_saved": "56%",
+     "serve_playerd": "2,225",
+     "serve_won": "71%",
+     "serve_points_won": "59%",
+     "first_return_won": "33%",
+     "sec_return_won": "55%",
+     "break_opportunity": "1,620",
+     "break_converted": "44%",
+     "return_games": "2,256",
+     "return_won": "32%",
+     "return_points_won": "42%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Fabio",
+     "sname": "Fognini",
+     "aces": "1,763",
+     "double_faults": "2,210",
+     "first_serve": "59%",
+     "first_serve_won": "67%",
+     "sec_serve_won": "48%",
+     "break_faced": "4,455",
+     "break_saved": "57%",
+     "serve_playerd": "6,772",
+     "serve_won": "72%",
+     "serve_points_won": "60%",
+     "first_return_won": "32%",
+     "sec_return_won": "51%",
+     "break_opportunity": "4,368",
+     "break_converted": "43%",
+     "return_games": "6,832",
+     "return_won": "27%",
+     "return_points_won": "39%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Stefanos",
+     "sname": "Tsitsipas",
+     "aces": "464",
+     "double_faults": "167",
+     "first_serve": "58%",
+     "first_serve_won": "75%",
+     "sec_serve_won": "53%",
+     "break_faced": "342",
+     "break_saved": "61%",
+     "serve_playerd": "820",
+     "serve_won": "84%",
+     "serve_points_won": "66%",
+     "first_return_won": "27%",
+     "sec_return_won": "48%",
+     "break_opportunity": "364",
+     "break_converted": "39%",
+     "return_games": "806",
+     "return_won": "18%",
+     "return_points_won": "34%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Kyle",
+     "sname": "Edmund",
+     "aces": "907",
+     "double_faults": "428",
+     "first_serve": "59%",
+     "first_serve_won": "73%",
+     "sec_serve_won": "52%",
+     "break_faced": "1,007",
+     "break_saved": "63%",
+     "serve_playerd": "1,940",
+     "serve_won": "81%",
+     "serve_points_won": "65%",
+     "first_return_won": "27%",
+     "sec_return_won": "51%",
+     "break_opportunity": "1,047",
+     "break_converted": "39%",
+     "return_games": "1,918",
+     "return_won": "21%",
+     "return_points_won": "36%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Lucas",
+     "sname": "Pouille",
+     "aces": "1,405",
+     "double_faults": "655",
+     "first_serve": "56%",
+     "first_serve_won": "74%",
+     "sec_serve_won": "51%",
+     "break_faced": "1,237",
+     "break_saved": "63%",
+     "serve_playerd": "2,318",
+     "serve_won": "80%",
+     "serve_points_won": "64%",
+     "first_return_won": "27%",
+     "sec_return_won": "49%",
+     "break_opportunity": "1,160",
+     "break_converted": "39%",
+     "return_games": "2,316",
+     "return_won": "20%",
+     "return_points_won": "36%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Jack",
+     "sname": "Sock",
+     "aces": "1,772",
+     "double_faults": "1,176",
+     "first_serve": "58%",
+     "first_serve_won": "74%",
+     "sec_serve_won": "53%",
+     "break_faced": "1,623",
+     "break_saved": "64%",
+     "serve_playerd": "3,385",
+     "serve_won": "83%",
+     "serve_points_won": "65%",
+     "first_return_won": "27%",
+     "sec_return_won": "48%",
+     "break_opportunity": "1,697",
+     "break_converted": "39%",
+     "return_games": "3,387",
+     "return_won": "19%",
+     "return_points_won": "35%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Kei",
+     "sname": "Nishikori",
+     "aces": "1,687",
+     "double_faults": "1,345",
+     "first_serve": "61%",
+     "first_serve_won": "71%",
+     "sec_serve_won": "53%",
+     "break_faced": "3,089",
+     "break_saved": "62%",
+     "serve_playerd": "6,016",
+     "serve_won": "80%",
+     "serve_points_won": "64%",
+     "first_return_won": "30%",
+     "sec_return_won": "53%",
+     "break_opportunity": "4,029",
+     "break_converted": "41%",
+     "return_games": "6,043",
+     "return_won": "27%",
+     "return_points_won": "40%",
+     "total_points_won": "52%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Borna",
+     "sname": "Coric",
+     "aces": "1,019",
+     "double_faults": "439",
+     "first_serve": "61%",
+     "first_serve_won": "71%",
+     "sec_serve_won": "53%",
+     "break_faced": "1,167",
+     "break_saved": "60%",
+     "serve_playerd": "2,284",
+     "serve_won": "80%",
+     "serve_points_won": "64%",
+     "first_return_won": "27%",
+     "sec_return_won": "50%",
+     "break_opportunity": "1,271",
+     "break_converted": "38%",
+     "return_games": "2,316",
+     "return_won": "21%",
+     "return_points_won": "36%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Marco",
+     "sname": "Cecchinato",
+     "aces": "245",
+     "double_faults": "144",
+     "first_serve": "67%",
+     "first_serve_won": "68%",
+     "sec_serve_won": "48%",
+     "break_faced": "445",
+     "break_saved": "56%",
+     "serve_playerd": "775",
+     "serve_won": "74%",
+     "serve_points_won": "61%",
+     "first_return_won": "27%",
+     "sec_return_won": "48%",
+     "break_opportunity": "384",
+     "break_converted": "36%",
+     "return_games": "766",
+     "return_won": "18%",
+     "return_points_won": "35%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Roberto",
+     "sname": "Bautista Agut",
+     "aces": "1,114",
+     "double_faults": "738",
+     "first_serve": "66%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "53%",
+     "break_faced": "2,453",
+     "break_saved": "63%",
+     "serve_playerd": "4,528",
+     "serve_won": "80%",
+     "serve_points_won": "64%",
+     "first_return_won": "31%",
+     "sec_return_won": "52%",
+     "break_opportunity": "2,800",
+     "break_converted": "42%",
+     "return_games": "4,431",
+     "return_won": "27%",
+     "return_points_won": "39%",
+     "total_points_won": "52%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Hyeon",
+     "sname": "Chung",
+     "aces": "397",
+     "double_faults": "360",
+     "first_serve": "62%",
+     "first_serve_won": "70%",
+     "sec_serve_won": "50%",
+     "break_faced": "758",
+     "break_saved": "59%",
+     "serve_playerd": "1,373",
+     "serve_won": "77%",
+     "serve_points_won": "63%",
+     "first_return_won": "31%",
+     "sec_return_won": "53%",
+     "break_opportunity": "894",
+     "break_converted": "42%",
+     "return_games": "1,397",
+     "return_won": "27%",
+     "return_points_won": "39%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Milos",
+     "sname": "Raonic",
+     "aces": "6,523",
+     "double_faults": "1,373",
+     "first_serve": "63%",
+     "first_serve_won": "81%",
+     "sec_serve_won": "55%",
+     "break_faced": "1,700",
+     "break_saved": "69%",
+     "serve_playerd": "5,701",
+     "serve_won": "91%",
+     "serve_points_won": "71%",
+     "first_return_won": "27%",
+     "sec_return_won": "46%",
+     "break_opportunity": "2,486",
+     "break_converted": "36%",
+     "return_games": "5,634",
+     "return_won": "16%",
+     "return_points_won": "34%",
+     "total_points_won": "52%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Richard",
+     "sname": "Gasquet",
+     "aces": "4,231",
+     "double_faults": "1,826",
+     "first_serve": "62%",
+     "first_serve_won": "73%",
+     "sec_serve_won": "53%",
+     "break_faced": "4,342",
+     "break_saved": "61%",
+     "serve_playerd": "9,522",
+     "serve_won": "82%",
+     "serve_points_won": "66%",
+     "first_return_won": "31%",
+     "sec_return_won": "51%",
+     "break_opportunity": "5,745",
+     "break_converted": "41%",
+     "return_games": "9,357",
+     "return_won": "25%",
+     "return_points_won": "39%",
+     "total_points_won": "52%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Karen",
+     "sname": "Khachanov",
+     "aces": "1,134",
+     "double_faults": "395",
+     "first_serve": "59%",
+     "first_serve_won": "74%",
+     "sec_serve_won": "51%",
+     "break_faced": "810",
+     "break_saved": "63%",
+     "serve_playerd": "1,665",
+     "serve_won": "82%",
+     "serve_points_won": "65%",
+     "first_return_won": "28%",
+     "sec_return_won": "49%",
+     "break_opportunity": "868",
+     "break_converted": "39%",
+     "return_games": "1,671",
+     "return_won": "20%",
+     "return_points_won": "36%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Damir",
+     "sname": "Dzumhur",
+     "aces": "439",
+     "double_faults": "453",
+     "first_serve": "64%",
+     "first_serve_won": "65%",
+     "sec_serve_won": "50%",
+     "break_faced": "1,329",
+     "break_saved": "57%",
+     "serve_playerd": "1,995",
+     "serve_won": "71%",
+     "serve_points_won": "60%",
+     "first_return_won": "32%",
+     "sec_return_won": "51%",
+     "break_opportunity": "1,264",
+     "break_converted": "45%",
+     "return_games": "2,025",
+     "return_won": "28%",
+     "return_points_won": "40%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Denis",
+     "sname": "Shapovalov",
+     "aces": "542",
+     "double_faults": "357",
+     "first_serve": "57%",
+     "first_serve_won": "76%",
+     "sec_serve_won": "53%",
+     "break_faced": "426",
+     "break_saved": "65%",
+     "serve_playerd": "892",
+     "serve_won": "83%",
+     "serve_points_won": "66%",
+     "first_return_won": "26%",
+     "sec_return_won": "47%",
+     "break_opportunity": "430",
+     "break_converted": "37%",
+     "return_games": "884",
+     "return_won": "18%",
+     "return_points_won": "34%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Adrian",
+     "sname": "Mannarino",
+     "aces": "1,524",
+     "double_faults": "903",
+     "first_serve": "61%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "50%",
+     "break_faced": "2,517",
+     "break_saved": "59%",
+     "serve_playerd": "4,143",
+     "serve_won": "75%",
+     "serve_points_won": "62%",
+     "first_return_won": "28%",
+     "sec_return_won": "50%",
+     "break_opportunity": "2,231",
+     "break_converted": "42%",
+     "return_games": "4,166",
+     "return_won": "23%",
+     "return_points_won": "37%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Nick",
+     "sname": "Kyrgios",
+     "aces": "2,643",
+     "double_faults": "664",
+     "first_serve": "65%",
+     "first_serve_won": "77%",
+     "sec_serve_won": "53%",
+     "break_faced": "882",
+     "break_saved": "66%",
+     "serve_playerd": "2,486",
+     "serve_won": "88%",
+     "serve_points_won": "69%",
+     "first_return_won": "25%",
+     "sec_return_won": "47%",
+     "break_opportunity": "1,077",
+     "break_converted": "39%",
+     "return_games": "2,458",
+     "return_won": "17%",
+     "return_points_won": "33%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Steve",
+     "sname": "Johnson",
+     "aces": "2,372",
+     "double_faults": "851",
+     "first_serve": "59%",
+     "first_serve_won": "75%",
+     "sec_serve_won": "53%",
+     "break_faced": "1,642",
+     "break_saved": "67%",
+     "serve_playerd": "3,491",
+     "serve_won": "85%",
+     "serve_points_won": "66%",
+     "first_return_won": "26%",
+     "sec_return_won": "46%",
+     "break_opportunity": "1,625",
+     "break_converted": "36%",
+     "return_games": "3,458",
+     "return_won": "17%",
+     "return_points_won": "34%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Fernando",
+     "sname": "Verdasco",
+     "aces": "4,676",
+     "double_faults": "3,489",
+     "first_serve": "67%",
+     "first_serve_won": "71%",
+     "sec_serve_won": "51%",
+     "break_faced": "5,745",
+     "break_saved": "62%",
+     "serve_playerd": "11,032",
+     "serve_won": "80%",
+     "serve_points_won": "64%",
+     "first_return_won": "31%",
+     "sec_return_won": "51%",
+     "break_opportunity": "6,556",
+     "break_converted": "41%",
+     "return_games": "11,062",
+     "return_won": "24%",
+     "return_points_won": "38%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Filip",
+     "sname": "Krajinovic",
+     "aces": "291",
+     "double_faults": "145",
+     "first_serve": "63%",
+     "first_serve_won": "67%",
+     "sec_serve_won": "50%",
+     "break_faced": "464",
+     "break_saved": "56%",
+     "serve_playerd": "760",
+     "serve_won": "73%",
+     "serve_points_won": "61%",
+     "first_return_won": "28%",
+     "sec_return_won": "49%",
+     "break_opportunity": "406",
+     "break_converted": "40%",
+     "return_games": "770",
+     "return_won": "21%",
+     "return_points_won": "36%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Philipp",
+     "sname": "Kohlschreiber",
+     "aces": "4,226",
+     "double_faults": "1,606",
+     "first_serve": "60%",
+     "first_serve_won": "72%",
+     "sec_serve_won": "54%",
+     "break_faced": "4,490",
+     "break_saved": "63%",
+     "serve_playerd": "9,081",
+     "serve_won": "82%",
+     "serve_points_won": "65%",
+     "first_return_won": "29%",
+     "sec_return_won": "50%",
+     "break_opportunity": "5,078",
+     "break_converted": "41%",
+     "return_games": "9,166",
+     "return_won": "22%",
+     "return_points_won": "37%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Sam",
+     "sname": "Querrey",
+     "aces": "7,357",
+     "double_faults": "1,966",
+     "first_serve": "59%",
+     "first_serve_won": "79%",
+     "sec_serve_won": "51%",
+     "break_faced": "3,210",
+     "break_saved": "63%",
+     "serve_playerd": "7,777",
+     "serve_won": "85%",
+     "serve_points_won": "67%",
+     "first_return_won": "27%",
+     "sec_return_won": "47%",
+     "break_opportunity": "3,640",
+     "break_converted": "38%",
+     "return_games": "7,668",
+     "return_won": "18%",
+     "return_points_won": "35%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Daniil",
+     "sname": "Medvedev",
+     "aces": "682",
+     "double_faults": "375",
+     "first_serve": "59%",
+     "first_serve_won": "72%",
+     "sec_serve_won": "50%",
+     "break_faced": "712",
+     "break_saved": "62%",
+     "serve_playerd": "1,222",
+     "serve_won": "78%",
+     "serve_points_won": "63%",
+     "first_return_won": "28%",
+     "sec_return_won": "50%",
+     "break_opportunity": "743",
+     "break_converted": "37%",
+     "return_games": "1,231",
+     "return_won": "22%",
+     "return_points_won": "37%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Nikoloz",
+     "sname": "Basilashvili",
+     "aces": "342",
+     "double_faults": "452",
+     "first_serve": "63%",
+     "first_serve_won": "66%",
+     "sec_serve_won": "49%",
+     "break_faced": "903",
+     "break_saved": "57%",
+     "serve_playerd": "1,360",
+     "serve_won": "71%",
+     "serve_points_won": "59%",
+     "first_return_won": "29%",
+     "sec_return_won": "49%",
+     "break_opportunity": "778",
+     "break_converted": "37%",
+     "return_games": "1,352",
+     "return_won": "21%",
+     "return_points_won": "37%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Andrey",
+     "sname": "Rublev",
+     "aces": "406",
+     "double_faults": "362",
+     "first_serve": "60%",
+     "first_serve_won": "70%",
+     "sec_serve_won": "48%",
+     "break_faced": "716",
+     "break_saved": "61%",
+     "serve_playerd": "1,131",
+     "serve_won": "75%",
+     "serve_points_won": "61%",
+     "first_return_won": "29%",
+     "sec_return_won": "52%",
+     "break_opportunity": "667",
+     "break_converted": "40%",
+     "return_games": "1,142",
+     "return_won": "23%",
+     "return_points_won": "38%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Gael",
+     "sname": "Monfils",
+     "aces": "5,561",
+     "double_faults": "2,330",
+     "first_serve": "62%",
+     "first_serve_won": "73%",
+     "sec_serve_won": "50%",
+     "break_faced": "4,178",
+     "break_saved": "61%",
+     "serve_playerd": "8,318",
+     "serve_won": "81%",
+     "serve_points_won": "64%",
+     "first_return_won": "32%",
+     "sec_return_won": "49%",
+     "break_opportunity": "5,053",
+     "break_converted": "41%",
+     "return_games": "8,345",
+     "return_won": "25%",
+     "return_points_won": "38%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Gilles",
+     "sname": "Simon",
+     "aces": "3,251",
+     "double_faults": "1,665",
+     "first_serve": "57%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "52%",
+     "break_faced": "5,542",
+     "break_saved": "60%",
+     "serve_playerd": "9,269",
+     "serve_won": "76%",
+     "serve_points_won": "62%",
+     "first_return_won": "31%",
+     "sec_return_won": "53%",
+     "break_opportunity": "5,793",
+     "break_converted": "43%",
+     "return_games": "9,182",
+     "return_won": "27%",
+     "return_points_won": "40%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Marton",
+     "sname": "Fucsovics",
+     "aces": "248",
+     "double_faults": "203",
+     "first_serve": "54%",
+     "first_serve_won": "70%",
+     "sec_serve_won": "51%",
+     "break_faced": "434",
+     "break_saved": "62%",
+     "serve_playerd": "679",
+     "serve_won": "76%",
+     "serve_points_won": "62%",
+     "first_return_won": "30%",
+     "sec_return_won": "51%",
+     "break_opportunity": "430",
+     "break_converted": "41%",
+     "return_games": "679",
+     "return_won": "26%",
+     "return_points_won": "39%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Nicolas",
+     "sname": "Jarry",
+     "aces": "359",
+     "double_faults": "137",
+     "first_serve": "64%",
+     "first_serve_won": "72%",
+     "sec_serve_won": "53%",
+     "break_faced": "295",
+     "break_saved": "63%",
+     "serve_playerd": "608",
+     "serve_won": "82%",
+     "serve_points_won": "65%",
+     "first_return_won": "26%",
+     "sec_return_won": "46%",
+     "break_opportunity": "286",
+     "break_converted": "36%",
+     "return_games": "609",
+     "return_won": "17%",
+     "return_points_won": "34%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Leonardo",
+     "sname": "Mayer",
+     "aces": "1,943",
+     "double_faults": "1,049",
+     "first_serve": "61%",
+     "first_serve_won": "73%",
+     "sec_serve_won": "52%",
+     "break_faced": "1,908",
+     "break_saved": "62%",
+     "serve_playerd": "3,952",
+     "serve_won": "82%",
+     "serve_points_won": "65%",
+     "first_return_won": "27%",
+     "sec_return_won": "48%",
+     "break_opportunity": "1,917",
+     "break_converted": "37%",
+     "return_games": "3,948",
+     "return_won": "18%",
+     "return_points_won": "35%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Frances",
+     "sname": "Tiafoe",
+     "aces": "592",
+     "double_faults": "230",
+     "first_serve": "61%",
+     "first_serve_won": "72%",
+     "sec_serve_won": "52%",
+     "break_faced": "523",
+     "break_saved": "60%",
+     "serve_playerd": "1,031",
+     "serve_won": "80%",
+     "serve_points_won": "64%",
+     "first_return_won": "25%",
+     "sec_return_won": "49%",
+     "break_opportunity": "498",
+     "break_converted": "37%",
+     "return_games": "1,043",
+     "return_won": "18%",
+     "return_points_won": "35%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Alex",
+     "sname": "de Minaur",
+     "aces": "143",
+     "double_faults": "114",
+     "first_serve": "60%",
+     "first_serve_won": "68%",
+     "sec_serve_won": "53%",
+     "break_faced": "265",
+     "break_saved": "58%",
+     "serve_playerd": "440",
+     "serve_won": "75%",
+     "serve_points_won": "62%",
+     "first_return_won": "27%",
+     "sec_return_won": "50%",
+     "break_opportunity": "241",
+     "break_converted": "36%",
+     "return_games": "445",
+     "return_won": "20%",
+     "return_points_won": "36%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Jeremy",
+     "sname": "Chardy",
+     "aces": "3,911",
+     "double_faults": "2,030",
+     "first_serve": "60%",
+     "first_serve_won": "74%",
+     "sec_serve_won": "50%",
+     "break_faced": "3,109",
+     "break_saved": "63%",
+     "serve_playerd": "6,024",
+     "serve_won": "81%",
+     "serve_points_won": "64%",
+     "first_return_won": "27%",
+     "sec_return_won": "48%",
+     "break_opportunity": "3,088",
+     "break_converted": "37%",
+     "return_games": "6,069",
+     "return_won": "19%",
+     "return_points_won": "36%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Peter",
+     "sname": "Gojowczyk",
+     "aces": "624",
+     "double_faults": "300",
+     "first_serve": "55%",
+     "first_serve_won": "75%",
+     "sec_serve_won": "49%",
+     "break_faced": "560",
+     "break_saved": "59%",
+     "serve_playerd": "1,061",
+     "serve_won": "79%",
+     "serve_points_won": "63%",
+     "first_return_won": "28%",
+     "sec_return_won": "50%",
+     "break_opportunity": "524",
+     "break_converted": "40%",
+     "return_games": "1,063",
+     "return_won": "20%",
+     "return_points_won": "36%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Mischa",
+     "sname": "Zverev",
+     "aces": "1,519",
+     "double_faults": "646",
+     "first_serve": "65%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "49%",
+     "break_faced": "2,192",
+     "break_saved": "61%",
+     "serve_playerd": "3,644",
+     "serve_won": "76%",
+     "serve_points_won": "62%",
+     "first_return_won": "29%",
+     "sec_return_won": "48%",
+     "break_opportunity": "1,920",
+     "break_converted": "39%",
+     "return_games": "3,700",
+     "return_won": "20%",
+     "return_points_won": "36%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Robin",
+     "sname": "Haase",
+     "aces": "2,653",
+     "double_faults": "1,112",
+     "first_serve": "60%",
+     "first_serve_won": "72%",
+     "sec_serve_won": "50%",
+     "break_faced": "2,919",
+     "break_saved": "60%",
+     "serve_playerd": "5,202",
+     "serve_won": "78%",
+     "serve_points_won": "63%",
+     "first_return_won": "29%",
+     "sec_return_won": "48%",
+     "break_opportunity": "2,759",
+     "break_converted": "40%",
+     "return_games": "5,227",
+     "return_won": "21%",
+     "return_points_won": "36%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Maximilian",
+     "sname": "Marterer",
+     "aces": "288",
+     "double_faults": "102",
+     "first_serve": "63%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "54%",
+     "break_faced": "305",
+     "break_saved": "59%",
+     "serve_playerd": "603",
+     "serve_won": "79%",
+     "serve_points_won": "64%",
+     "first_return_won": "26%",
+     "sec_return_won": "44%",
+     "break_opportunity": "260",
+     "break_converted": "34%",
+     "return_games": "609",
+     "return_won": "15%",
+     "return_points_won": "33%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Andreas",
+     "sname": "Seppi",
+     "aces": "3,253",
+     "double_faults": "1,852",
+     "first_serve": "58%",
+     "first_serve_won": "70%",
+     "sec_serve_won": "50%",
+     "break_faced": "4,946",
+     "break_saved": "60%",
+     "serve_playerd": "8,361",
+     "serve_won": "76%",
+     "serve_points_won": "62%",
+     "first_return_won": "30%",
+     "sec_return_won": "50%",
+     "break_opportunity": "4,850",
+     "break_converted": "40%",
+     "return_games": "8,457",
+     "return_won": "23%",
+     "return_points_won": "38%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Albert",
+     "sname": "Ramos-Vinolas",
+     "aces": "1,318",
+     "double_faults": "970",
+     "first_serve": "62%",
+     "first_serve_won": "68%",
+     "sec_serve_won": "51%",
+     "break_faced": "2,706",
+     "break_saved": "61%",
+     "serve_playerd": "4,468",
+     "serve_won": "76%",
+     "serve_points_won": "62%",
+     "first_return_won": "29%",
+     "sec_return_won": "50%",
+     "break_opportunity": "2,584",
+     "break_converted": "40%",
+     "return_games": "4,509",
+     "return_won": "23%",
+     "return_points_won": "37%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Ryan",
+     "sname": "Harrison",
+     "aces": "1,788",
+     "double_faults": "862",
+     "first_serve": "59%",
+     "first_serve_won": "72%",
+     "sec_serve_won": "50%",
+     "break_faced": "1,819",
+     "break_saved": "62%",
+     "serve_playerd": "3,209",
+     "serve_won": "79%",
+     "serve_points_won": "63%",
+     "first_return_won": "27%",
+     "sec_return_won": "47%",
+     "break_opportunity": "1,474",
+     "break_converted": "39%",
+     "return_games": "3,177",
+     "return_won": "18%",
+     "return_points_won": "35%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Matthew",
+     "sname": "Ebden",
+     "aces": "886",
+     "double_faults": "720",
+     "first_serve": "61%",
+     "first_serve_won": "70%",
+     "sec_serve_won": "45%",
+     "break_faced": "1,161",
+     "break_saved": "57%",
+     "serve_playerd": "1,884",
+     "serve_won": "73%",
+     "serve_points_won": "61%",
+     "first_return_won": "28%",
+     "sec_return_won": "47%",
+     "break_opportunity": "962",
+     "break_converted": "38%",
+     "return_games": "1,872",
+     "return_won": "19%",
+     "return_points_won": "35%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "John",
+     "sname": "Millman",
+     "aces": "427",
+     "double_faults": "208",
+     "first_serve": "63%",
+     "first_serve_won": "68%",
+     "sec_serve_won": "52%",
+     "break_faced": "745",
+     "break_saved": "57%",
+     "serve_playerd": "1,288",
+     "serve_won": "75%",
+     "serve_points_won": "62%",
+     "first_return_won": "28%",
+     "sec_return_won": "50%",
+     "break_opportunity": "696",
+     "break_converted": "42%",
+     "return_games": "1,275",
+     "return_won": "23%",
+     "return_points_won": "37%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Benoit",
+     "sname": "Paire",
+     "aces": "3,032",
+     "double_faults": "1,636",
+     "first_serve": "52%",
+     "first_serve_won": "74%",
+     "sec_serve_won": "46%",
+     "break_faced": "2,912",
+     "break_saved": "60%",
+     "serve_playerd": "4,553",
+     "serve_won": "74%",
+     "serve_points_won": "61%",
+     "first_return_won": "32%",
+     "sec_return_won": "49%",
+     "break_opportunity": "2,703",
+     "break_converted": "41%",
+     "return_games": "4,556",
+     "return_won": "24%",
+     "return_points_won": "38%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Matteo",
+     "sname": "Berrettini",
+     "aces": "211",
+     "double_faults": "65",
+     "first_serve": "61%",
+     "first_serve_won": "75%",
+     "sec_serve_won": "52%",
+     "break_faced": "174",
+     "break_saved": "60%",
+     "serve_playerd": "395",
+     "serve_won": "82%",
+     "serve_points_won": "66%",
+     "first_return_won": "27%",
+     "sec_return_won": "45%",
+     "break_opportunity": "201",
+     "break_converted": "32%",
+     "return_games": "399",
+     "return_won": "16%",
+     "return_points_won": "34%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Jan-Lennard",
+     "sname": "Struff",
+     "aces": "1,458",
+     "double_faults": "749",
+     "first_serve": "56%",
+     "first_serve_won": "76%",
+     "sec_serve_won": "49%",
+     "break_faced": "1,214",
+     "break_saved": "61%",
+     "serve_playerd": "2,318",
+     "serve_won": "79%",
+     "serve_points_won": "64%",
+     "first_return_won": "27%",
+     "sec_return_won": "48%",
+     "break_opportunity": "1,107",
+     "break_converted": "38%",
+     "return_games": "2,306",
+     "return_won": "18%",
+     "return_points_won": "35%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Malek",
+     "sname": "Jaziri",
+     "aces": "757",
+     "double_faults": "547",
+     "first_serve": "54%",
+     "first_serve_won": "71%",
+     "sec_serve_won": "49%",
+     "break_faced": "1,392",
+     "break_saved": "63%",
+     "serve_playerd": "2,157",
+     "serve_won": "76%",
+     "serve_points_won": "61%",
+     "first_return_won": "26%",
+     "sec_return_won": "48%",
+     "break_opportunity": "1,112",
+     "break_converted": "36%",
+     "return_games": "2,169",
+     "return_won": "18%",
+     "return_points_won": "35%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Julien",
+     "sname": "Benneteau",
+     "aces": "3,289",
+     "double_faults": "1,857",
+     "first_serve": "64%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "49%",
+     "break_faced": "3,933",
+     "break_saved": "59%",
+     "serve_playerd": "6,903",
+     "serve_won": "76%",
+     "serve_points_won": "62%",
+     "first_return_won": "29%",
+     "sec_return_won": "50%",
+     "break_opportunity": "3,928",
+     "break_converted": "39%",
+     "return_games": "6,955",
+     "return_won": "22%",
+     "return_points_won": "37%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Tennys",
+     "sname": "Sandgren",
+     "aces": "268",
+     "double_faults": "85",
+     "first_serve": "63%",
+     "first_serve_won": "73%",
+     "sec_serve_won": "48%",
+     "break_faced": "258",
+     "break_saved": "64%",
+     "serve_playerd": "453",
+     "serve_won": "79%",
+     "serve_points_won": "64%",
+     "first_return_won": "27%",
+     "sec_return_won": "46%",
+     "break_opportunity": "193",
+     "break_converted": "41%",
+     "return_games": "453",
+     "return_won": "17%",
+     "return_points_won": "34%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Dusan",
+     "sname": "Lajovic",
+     "aces": "760",
+     "double_faults": "368",
+     "first_serve": "65%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "52%",
+     "break_faced": "1,313",
+     "break_saved": "61%",
+     "serve_playerd": "2,352",
+     "serve_won": "78%",
+     "serve_points_won": "63%",
+     "first_return_won": "27%",
+     "sec_return_won": "48%",
+     "break_opportunity": "1,181",
+     "break_converted": "39%",
+     "return_games": "2,354",
+     "return_won": "20%",
+     "return_points_won": "35%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Feliciano",
+     "sname": "Lopez",
+     "aces": "9,091",
+     "double_faults": "2,941",
+     "first_serve": "59%",
+     "first_serve_won": "76%",
+     "sec_serve_won": "52%",
+     "break_faced": "5,334",
+     "break_saved": "66%",
+     "serve_playerd": "11,399",
+     "serve_won": "84%",
+     "serve_points_won": "66%",
+     "first_return_won": "27%",
+     "sec_return_won": "44%",
+     "break_opportunity": "5,002",
+     "break_converted": "36%",
+     "return_games": "11,436",
+     "return_won": "16%",
+     "return_points_won": "33%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Taro",
+     "sname": "Daniel",
+     "aces": "248",
+     "double_faults": "235",
+     "first_serve": "63%",
+     "first_serve_won": "66%",
+     "sec_serve_won": "50%",
+     "break_faced": "670",
+     "break_saved": "61%",
+     "serve_playerd": "919",
+     "serve_won": "72%",
+     "serve_points_won": "60%",
+     "first_return_won": "27%",
+     "sec_return_won": "50%",
+     "break_opportunity": "523",
+     "break_converted": "39%",
+     "return_games": "925",
+     "return_won": "22%",
+     "return_points_won": "36%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Jo-Wilfried",
+     "sname": "Tsonga",
+     "aces": "5,901",
+     "double_faults": "1,447",
+     "first_serve": "62%",
+     "first_serve_won": "78%",
+     "sec_serve_won": "53%",
+     "break_faced": "3,055",
+     "break_saved": "67%",
+     "serve_playerd": "7,807",
+     "serve_won": "87%",
+     "serve_points_won": "68%",
+     "first_return_won": "29%",
+     "sec_return_won": "47%",
+     "break_opportunity": "3,996",
+     "break_converted": "40%",
+     "return_games": "7,727",
+     "return_won": "21%",
+     "return_points_won": "36%",
+     "total_points_won": "52%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Guido",
+     "sname": "Pella",
+     "aces": "711",
+     "double_faults": "334",
+     "first_serve": "65%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "52%",
+     "break_faced": "1,071",
+     "break_saved": "63%",
+     "serve_playerd": "1,789",
+     "serve_won": "78%",
+     "serve_points_won": "63%",
+     "first_return_won": "27%",
+     "sec_return_won": "51%",
+     "break_opportunity": "979",
+     "break_converted": "36%",
+     "return_games": "1,791",
+     "return_won": "20%",
+     "return_points_won": "36%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Cameron",
+     "sname": "Norrie",
+     "aces": "110",
+     "double_faults": "104",
+     "first_serve": "63%",
+     "first_serve_won": "70%",
+     "sec_serve_won": "50%",
+     "break_faced": "190",
+     "break_saved": "62%",
+     "serve_playerd": "354",
+     "serve_won": "80%",
+     "serve_points_won": "63%",
+     "first_return_won": "29%",
+     "sec_return_won": "46%",
+     "break_opportunity": "175",
+     "break_converted": "39%",
+     "return_games": "355",
+     "return_won": "19%",
+     "return_points_won": "36%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Joao",
+     "sname": "Sousa",
+     "aces": "1,040",
+     "double_faults": "690",
+     "first_serve": "61%",
+     "first_serve_won": "70%",
+     "sec_serve_won": "49%",
+     "break_faced": "2,242",
+     "break_saved": "59%",
+     "serve_playerd": "3,749",
+     "serve_won": "75%",
+     "serve_points_won": "62%",
+     "first_return_won": "29%",
+     "sec_return_won": "48%",
+     "break_opportunity": "2,141",
+     "break_converted": "38%",
+     "return_games": "3,768",
+     "return_won": "22%",
+     "return_points_won": "37%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Pablo",
+     "sname": "Cuevas",
+     "aces": "1,986",
+     "double_faults": "919",
+     "first_serve": "60%",
+     "first_serve_won": "72%",
+     "sec_serve_won": "52%",
+     "break_faced": "2,191",
+     "break_saved": "61%",
+     "serve_playerd": "4,049",
+     "serve_won": "79%",
+     "serve_points_won": "64%",
+     "first_return_won": "29%",
+     "sec_return_won": "48%",
+     "break_opportunity": "2,135",
+     "break_converted": "40%",
+     "return_games": "4,069",
+     "return_won": "21%",
+     "return_points_won": "37%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Tomas",
+     "sname": "Berdych",
+     "aces": "7,036",
+     "double_faults": "2,231",
+     "first_serve": "58%",
+     "first_serve_won": "77%",
+     "sec_serve_won": "53%",
+     "break_faced": "4,793",
+     "break_saved": "64%",
+     "serve_playerd": "11,199",
+     "serve_won": "84%",
+     "serve_points_won": "67%",
+     "first_return_won": "29%",
+     "sec_return_won": "52%",
+     "break_opportunity": "6,375",
+     "break_converted": "42%",
+     "return_games": "11,020",
+     "return_won": "24%",
+     "return_points_won": "38%",
+     "total_points_won": "52%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Martin",
+     "sname": "Klizan",
+     "aces": "1,095",
+     "double_faults": "853",
+     "first_serve": "58%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "50%",
+     "break_faced": "1,867",
+     "break_saved": "61%",
+     "serve_playerd": "2,874",
+     "serve_won": "75%",
+     "serve_points_won": "61%",
+     "first_return_won": "29%",
+     "sec_return_won": "51%",
+     "break_opportunity": "1,652",
+     "break_converted": "41%",
+     "return_games": "2,893",
+     "return_won": "24%",
+     "return_points_won": "37%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Denis",
+     "sname": "Kudla",
+     "aces": "607",
+     "double_faults": "379",
+     "first_serve": "58%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "51%",
+     "break_faced": "847",
+     "break_saved": "60%",
+     "serve_playerd": "1,388",
+     "serve_won": "76%",
+     "serve_points_won": "62%",
+     "first_return_won": "26%",
+     "sec_return_won": "49%",
+     "break_opportunity": "663",
+     "break_converted": "41%",
+     "return_games": "1,392",
+     "return_won": "20%",
+     "return_points_won": "35%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Guillermo",
+     "sname": "Garcia-Lopez",
+     "aces": "2,279",
+     "double_faults": "2,520",
+     "first_serve": "59%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "49%",
+     "break_faced": "4,768",
+     "break_saved": "59%",
+     "serve_playerd": "7,673",
+     "serve_won": "74%",
+     "serve_points_won": "61%",
+     "first_return_won": "30%",
+     "sec_return_won": "50%",
+     "break_opportunity": "4,568",
+     "break_converted": "40%",
+     "return_games": "7,734",
+     "return_won": "24%",
+     "return_points_won": "38%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Taylor",
+     "sname": "Fritz",
+     "aces": "759",
+     "double_faults": "237",
+     "first_serve": "58%",
+     "first_serve_won": "73%",
+     "sec_serve_won": "50%",
+     "break_faced": "622",
+     "break_saved": "63%",
+     "serve_playerd": "1,164",
+     "serve_won": "80%",
+     "serve_points_won": "63%",
+     "first_return_won": "26%",
+     "sec_return_won": "49%",
+     "break_opportunity": "595",
+     "break_converted": "36%",
+     "return_games": "1,156",
+     "return_won": "19%",
+     "return_points_won": "35%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Pierre-Hugues",
+     "sname": "Herbert",
+     "aces": "1,103",
+     "double_faults": "482",
+     "first_serve": "59%",
+     "first_serve_won": "75%",
+     "sec_serve_won": "51%",
+     "break_faced": "718",
+     "break_saved": "63%",
+     "serve_playerd": "1,503",
+     "serve_won": "82%",
+     "serve_points_won": "65%",
+     "first_return_won": "25%",
+     "sec_return_won": "45%",
+     "break_opportunity": "588",
+     "break_converted": "36%",
+     "return_games": "1,498",
+     "return_won": "14%",
+     "return_points_won": "32%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Denis",
+     "sname": "Istomin",
+     "aces": "2,749",
+     "double_faults": "739",
+     "first_serve": "65%",
+     "first_serve_won": "71%",
+     "sec_serve_won": "51%",
+     "break_faced": "2,793",
+     "break_saved": "62%",
+     "serve_playerd": "5,229",
+     "serve_won": "80%",
+     "serve_points_won": "64%",
+     "first_return_won": "27%",
+     "sec_return_won": "48%",
+     "break_opportunity": "2,565",
+     "break_converted": "38%",
+     "return_games": "5,203",
+     "return_won": "19%",
+     "return_points_won": "35%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Lukas",
+     "sname": "Lacko",
+     "aces": "1,298",
+     "double_faults": "535",
+     "first_serve": "59%",
+     "first_serve_won": "71%",
+     "sec_serve_won": "50%",
+     "break_faced": "1,438",
+     "break_saved": "58%",
+     "serve_playerd": "2,593",
+     "serve_won": "77%",
+     "serve_points_won": "63%",
+     "first_return_won": "25%",
+     "sec_return_won": "47%",
+     "break_opportunity": "1,174",
+     "break_converted": "37%",
+     "return_games": "2,618",
+     "return_won": "17%",
+     "return_points_won": "34%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Aljaz",
+     "sname": "Bedene",
+     "aces": "1,505",
+     "double_faults": "508",
+     "first_serve": "57%",
+     "first_serve_won": "74%",
+     "sec_serve_won": "49%",
+     "break_faced": "1,263",
+     "break_saved": "58%",
+     "serve_playerd": "2,300",
+     "serve_won": "77%",
+     "serve_points_won": "63%",
+     "first_return_won": "28%",
+     "sec_return_won": "49%",
+     "break_opportunity": "1,214",
+     "break_converted": "38%",
+     "return_games": "2,324",
+     "return_won": "20%",
+     "return_points_won": "36%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Mackenzie",
+     "sname": "McDonald",
+     "aces": "78",
+     "double_faults": "73",
+     "first_serve": "63%",
+     "first_serve_won": "70%",
+     "sec_serve_won": "49%",
+     "break_faced": "146",
+     "break_saved": "58%",
+     "serve_playerd": "277",
+     "serve_won": "78%",
+     "serve_points_won": "62%",
+     "first_return_won": "24%",
+     "sec_return_won": "49%",
+     "break_opportunity": "121",
+     "break_converted": "35%",
+     "return_games": "281",
+     "return_won": "15%",
+     "return_points_won": "34%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Evgeny",
+     "sname": "Donskoy",
+     "aces": "697",
+     "double_faults": "318",
+     "first_serve": "58%",
+     "first_serve_won": "70%",
+     "sec_serve_won": "51%",
+     "break_faced": "1,009",
+     "break_saved": "62%",
+     "serve_playerd": "1,678",
+     "serve_won": "77%",
+     "serve_points_won": "62%",
+     "first_return_won": "26%",
+     "sec_return_won": "46%",
+     "break_opportunity": "774",
+     "break_converted": "33%",
+     "return_games": "1,697",
+     "return_won": "15%",
+     "return_points_won": "34%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Mirza",
+     "sname": "Basic",
+     "aces": "224",
+     "double_faults": "80",
+     "first_serve": "58%",
+     "first_serve_won": "70%",
+     "sec_serve_won": "52%",
+     "break_faced": "300",
+     "break_saved": "64%",
+     "serve_playerd": "472",
+     "serve_won": "77%",
+     "serve_points_won": "62%",
+     "first_return_won": "26%",
+     "sec_return_won": "46%",
+     "break_opportunity": "234",
+     "break_converted": "38%",
+     "return_games": "478",
+     "return_won": "19%",
+     "return_points_won": "34%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Marius",
+     "sname": "Copil",
+     "aces": "1,004",
+     "double_faults": "290",
+     "first_serve": "57%",
+     "first_serve_won": "75%",
+     "sec_serve_won": "52%",
+     "break_faced": "553",
+     "break_saved": "63%",
+     "serve_playerd": "1,175",
+     "serve_won": "83%",
+     "serve_points_won": "66%",
+     "first_return_won": "26%",
+     "sec_return_won": "44%",
+     "break_opportunity": "470",
+     "break_converted": "33%",
+     "return_games": "1,179",
+     "return_won": "13%",
+     "return_points_won": "33%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Jozef",
+     "sname": "Kovalik",
+     "aces": "111",
+     "double_faults": "71",
+     "first_serve": "61%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "51%",
+     "break_faced": "224",
+     "break_saved": "62%",
+     "serve_playerd": "368",
+     "serve_won": "77%",
+     "serve_points_won": "62%",
+     "first_return_won": "28%",
+     "sec_return_won": "49%",
+     "break_opportunity": "199",
+     "break_converted": "38%",
+     "return_games": "368",
+     "return_won": "21%",
+     "return_points_won": "37%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Mikhail",
+     "sname": "Kukushkin",
+     "aces": "876",
+     "double_faults": "423",
+     "first_serve": "60%",
+     "first_serve_won": "67%",
+     "sec_serve_won": "51%",
+     "break_faced": "2,101",
+     "break_saved": "60%",
+     "serve_playerd": "3,138",
+     "serve_won": "73%",
+     "serve_points_won": "60%",
+     "first_return_won": "28%",
+     "sec_return_won": "51%",
+     "break_opportunity": "1,785",
+     "break_converted": "41%",
+     "return_games": "3,192",
+     "return_won": "23%",
+     "return_points_won": "37%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Jaume",
+     "sname": "Munar",
+     "aces": "66",
+     "double_faults": "48",
+     "first_serve": "63%",
+     "first_serve_won": "66%",
+     "sec_serve_won": "49%",
+     "break_faced": "144",
+     "break_saved": "56%",
+     "serve_playerd": "224",
+     "serve_won": "72%",
+     "serve_points_won": "60%",
+     "first_return_won": "30%",
+     "sec_return_won": "51%",
+     "break_opportunity": "109",
+     "break_converted": "43%",
+     "return_games": "226",
+     "return_won": "21%",
+     "return_points_won": "38%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Alexandr",
+     "sname": "Dolgopolov",
+     "aces": "3,148",
+     "double_faults": "1,135",
+     "first_serve": "55%",
+     "first_serve_won": "75%",
+     "sec_serve_won": "51%",
+     "break_faced": "2,565",
+     "break_saved": "60%",
+     "serve_playerd": "5,001",
+     "serve_won": "79%",
+     "serve_points_won": "64%",
+     "first_return_won": "29%",
+     "sec_return_won": "49%",
+     "break_opportunity": "2,770",
+     "break_converted": "40%",
+     "return_games": "5,016",
+     "return_won": "22%",
+     "return_points_won": "37%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Jiri",
+     "sname": "Vesely",
+     "aces": "1,379",
+     "double_faults": "739",
+     "first_serve": "64%",
+     "first_serve_won": "71%",
+     "sec_serve_won": "51%",
+     "break_faced": "1,327",
+     "break_saved": "62%",
+     "serve_playerd": "2,497",
+     "serve_won": "80%",
+     "serve_points_won": "64%",
+     "first_return_won": "27%",
+     "sec_return_won": "48%",
+     "break_opportunity": "1,277",
+     "break_converted": "38%",
+     "return_games": "2,502",
+     "return_won": "19%",
+     "return_points_won": "35%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Vasek",
+     "sname": "Pospisil",
+     "aces": "1,955",
+     "double_faults": "763",
+     "first_serve": "57%",
+     "first_serve_won": "76%",
+     "sec_serve_won": "51%",
+     "break_faced": "1,245",
+     "break_saved": "62%",
+     "serve_playerd": "2,672",
+     "serve_won": "82%",
+     "serve_points_won": "65%",
+     "first_return_won": "26%",
+     "sec_return_won": "44%",
+     "break_opportunity": "1,083",
+     "break_converted": "36%",
+     "return_games": "2,637",
+     "return_won": "15%",
+     "return_points_won": "33%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Laslo",
+     "sname": "Djere",
+     "aces": "165",
+     "double_faults": "129",
+     "first_serve": "60%",
+     "first_serve_won": "70%",
+     "sec_serve_won": "50%",
+     "break_faced": "291",
+     "break_saved": "64%",
+     "serve_playerd": "447",
+     "serve_won": "77%",
+     "serve_points_won": "62%",
+     "first_return_won": "29%",
+     "sec_return_won": "47%",
+     "break_opportunity": "238",
+     "break_converted": "32%",
+     "return_games": "449",
+     "return_won": "17%",
+     "return_points_won": "36%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Jared",
+     "sname": "Donaldson",
+     "aces": "663",
+     "double_faults": "425",
+     "first_serve": "52%",
+     "first_serve_won": "74%",
+     "sec_serve_won": "51%",
+     "break_faced": "712",
+     "break_saved": "57%",
+     "serve_playerd": "1,360",
+     "serve_won": "78%",
+     "serve_points_won": "63%",
+     "first_return_won": "26%",
+     "sec_return_won": "49%",
+     "break_opportunity": "707",
+     "break_converted": "39%",
+     "return_games": "1,370",
+     "return_won": "20%",
+     "return_points_won": "36%",
+     "total_points_won": "49%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Yuichi",
+     "sname": "Sugita",
+     "aces": "386",
+     "double_faults": "275",
+     "first_serve": "61%",
+     "first_serve_won": "68%",
+     "sec_serve_won": "49%",
+     "break_faced": "781",
+     "break_saved": "60%",
+     "serve_playerd": "1,248",
+     "serve_won": "75%",
+     "serve_points_won": "61%",
+     "first_return_won": "26%",
+     "sec_return_won": "49%",
+     "break_opportunity": "634",
+     "break_converted": "38%",
+     "return_games": "1,250",
+     "return_won": "19%",
+     "return_points_won": "35%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Bradley",
+     "sname": "Klahn",
+     "aces": "193",
+     "double_faults": "135",
+     "first_serve": "62%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "48%",
+     "break_faced": "269",
+     "break_saved": "57%",
+     "serve_playerd": "422",
+     "serve_won": "73%",
+     "serve_points_won": "61%",
+     "first_return_won": "27%",
+     "sec_return_won": "43%",
+     "break_opportunity": "175",
+     "break_converted": "35%",
+     "return_games": "423",
+     "return_won": "14%",
+     "return_points_won": "33%",
+     "total_points_won": "47%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Marcos",
+     "sname": "Baghdatis",
+     "aces": "4,263",
+     "double_faults": "1,905",
+     "first_serve": "53%",
+     "first_serve_won": "75%",
+     "sec_serve_won": "52%",
+     "break_faced": "3,706",
+     "break_saved": "60%",
+     "serve_playerd": "7,320",
+     "serve_won": "80%",
+     "serve_points_won": "64%",
+     "first_return_won": "30%",
+     "sec_return_won": "50%",
+     "break_opportunity": "4,139",
+     "break_converted": "40%",
+     "return_games": "7,338",
+     "return_won": "23%",
+     "return_points_won": "38%",
+     "total_points_won": "51%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Paolo",
+     "sname": "Lorenzi",
+     "aces": "1,006",
+     "double_faults": "689",
+     "first_serve": "58%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "49%",
+     "break_faced": "1,904",
+     "break_saved": "57%",
+     "serve_playerd": "3,067",
+     "serve_won": "73%",
+     "serve_points_won": "61%",
+     "first_return_won": "28%",
+     "sec_return_won": "48%",
+     "break_opportunity": "1,649",
+     "break_converted": "38%",
+     "return_games": "3,097",
+     "return_won": "20%",
+     "return_points_won": "36%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Radu",
+     "sname": "Albot",
+     "aces": "183",
+     "double_faults": "254",
+     "first_serve": "65%",
+     "first_serve_won": "64%",
+     "sec_serve_won": "49%",
+     "break_faced": "713",
+     "break_saved": "57%",
+     "serve_playerd": "1,041",
+     "serve_won": "70%",
+     "serve_points_won": "59%",
+     "first_return_won": "29%",
+     "sec_return_won": "50%",
+     "break_opportunity": "630",
+     "break_converted": "37%",
+     "return_games": "1,031",
+     "return_won": "23%",
+     "return_points_won": "37%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Yuki",
+     "sname": "Bhambri",
+     "aces": "76",
+     "double_faults": "112",
+     "first_serve": "64%",
+     "first_serve_won": "64%",
+     "sec_serve_won": "49%",
+     "break_faced": "231",
+     "break_saved": "51%",
+     "serve_playerd": "369",
+     "serve_won": "69%",
+     "serve_points_won": "58%",
+     "first_return_won": "30%",
+     "sec_return_won": "50%",
+     "break_opportunity": "228",
+     "break_converted": "43%",
+     "return_games": "376",
+     "return_won": "26%",
+     "return_points_won": "38%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Roberto",
+     "sname": "Carballes Baena",
+     "aces": "172",
+     "double_faults": "197",
+     "first_serve": "61%",
+     "first_serve_won": "68%",
+     "sec_serve_won": "50%",
+     "break_faced": "424",
+     "break_saved": "59%",
+     "serve_playerd": "680",
+     "serve_won": "74%",
+     "serve_points_won": "61%",
+     "first_return_won": "28%",
+     "sec_return_won": "51%",
+     "break_opportunity": "362",
+     "break_converted": "43%",
+     "return_games": "691",
+     "return_won": "23%",
+     "return_points_won": "38%",
+     "total_points_won": "50%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Jason",
+     "sname": "Kubler",
+     "aces": "22",
+     "double_faults": "48",
+     "first_serve": "61%",
+     "first_serve_won": "65%",
+     "sec_serve_won": "40%",
+     "break_faced": "73",
+     "break_saved": "53%",
+     "serve_playerd": "94",
+     "serve_won": "64%",
+     "serve_points_won": "55%",
+     "first_return_won": "29%",
+     "sec_return_won": "54%",
+     "break_opportunity": "53",
+     "break_converted": "47%",
+     "return_games": "96",
+     "return_won": "26%",
+     "return_points_won": "38%",
+     "total_points_won": "47%"
+    }
+   ]
+  },
+  {
+   "stats": [
+    {
+     "fname": "Ilya",
+     "sname": "Ivashka",
+     "aces": "82",
+     "double_faults": "41",
+     "first_serve": "57%",
+     "first_serve_won": "69%",
+     "sec_serve_won": "44%",
+     "break_faced": "121",
+     "break_saved": "55%",
+     "serve_playerd": "165",
+     "serve_won": "67%",
+     "serve_points_won": "58%",
+     "first_return_won": "31%",
+     "sec_return_won": "50%",
+     "break_opportunity": "98",
+     "break_converted": "36%",
+     "return_games": "162",
+     "return_won": "22%",
+     "return_points_won": "39%",
+     "total_points_won": "48%"
+    }
+   ]
+  },
+  {
+  }
+ ]
+}

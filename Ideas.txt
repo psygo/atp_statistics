@@ -1,0 +1,19 @@
+1. Do an NN for the ATP dataset
+
+2. Get more data from the other statistics
+
+3. There is probably a way to find the stats within the html files from ATP.
+	
+	1. Around the lines 1500, you can find the basic bio.
+
+	2. 
+
+4. Within the Dataset:
+	
+	1. Is there a correlation between being left-handed and success?
+
+	2. Add the age when the player became pro to the main model.
+
+	3. Visualize the trained models.
+
+	4. Compare todays stats with other eras.
